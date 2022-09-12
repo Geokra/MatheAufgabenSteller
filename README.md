@@ -8,3 +8,5 @@ Die Idee zu diesem Programm kam mir im Matheunterricht, als ich feststellte das 
 Kopfrechnen nachgelassen habe. 
 
 Diese Programm soll das Problem beheben.
+
+Updates und Verbesserung folgen in den nächsten Tagen. (Stand: 12.09.2022) 
