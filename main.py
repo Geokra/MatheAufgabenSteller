@@ -20,7 +20,7 @@ for e in range(int(r)):
     ergeb.append(o)
     print(str(r) + " " + w + " " + str(t) + " = ")
 
-while f == True:
+while f:
     u = input("Fertig? [j/n]: ")
     if u == 'j':
         print(ergeb)
